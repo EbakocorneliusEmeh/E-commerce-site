@@ -1,14 +1,14 @@
-// src/context/UserContext.jsx
-import React, { createContext, useState } from 'react';
 
-export const UserContext = createContext();
+// import React, { createContext, useState } from 'react';
 
-export const UserProvider = ({ children }) => {
-  const [user, setUser] = useState(null); // you can store name, email, etc.
+// export const UserContext = createContext();
 
-  return (
-    <UserContext.Provider value={{ user, setUser }}>
-      {children}
-    </UserContext.Provider>
-  );
-};
+// export const UserProvider = ({ children }) => {
+//   const [user, setUser] = useState(null);
+
+//   return (
+//     <UserContext.Provider value={{ user, setUser }}>
+//       {children}
+//     </UserContext.Provider>
+//   );
+// };

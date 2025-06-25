@@ -1,0 +1,65 @@
+/* .flash-sales {
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.flash-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.timer {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+.timer div {
+  text-align: center;
+}
+
+.product-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  text-align: center;
+}
+
+.discount {
+  color: red;
+  font-weight: bold;
+}
+
+.price {
+  margin-top: 0.5rem;
+}
+
+.new {
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.old {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.rating {
+  margin-top: 0.5rem;
+  color: #666;
+}
+
+button {
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #000;
+  color: white;
+  border: none;
+  cursor: pointer;
+} */
